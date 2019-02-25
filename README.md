@@ -1,2 +1,2 @@
-# HP_Socket_Frame
-HP company Socket Frame
+# opencv/ffmpeg lib application
+ 
